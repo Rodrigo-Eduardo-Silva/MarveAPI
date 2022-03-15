@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9141240A-091E-4D9C-BE1D-0AAEE5A811EA"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C9A4F1B-34F8-4E00-B855-A8DAD635068F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/HeroesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "loadHeros()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C9A4F1B-34F8-4E00-B855-A8DAD635068F - cad6b15a6c9d9593"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;HeroisMarvel.MarvelInfo&gt;) -&gt; () in HeroisMarvel.HeroesTableViewController.loadHeros() -&gt; ()"
+                  moduleName = "HeroisMarvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoeduardosilva/Swfit_dev/HeroisMarvel/HeroisMarvel/HeroesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "4C9A4F1B-34F8-4E00-B855-A8DAD635068F - cad6b15a6c9d9593"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;HeroisMarvel.MarvelInfo&gt;) -&gt; () in HeroisMarvel.HeroesTableViewController.loadHeros() -&gt; ()"
+                  moduleName = "HeroisMarvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rodrigoeduardosilva/Swfit_dev/HeroisMarvel/HeroisMarvel/HeroesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76E29423-40FA-40B9-BF93-6F4A40964FA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63721160-77C5-4232-9410-490203EF40BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
